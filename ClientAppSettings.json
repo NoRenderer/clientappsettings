@@ -549,7 +549,7 @@
     "FFlagPerformanceControlMimicMemoryPrioritization":false,
     "FFlagPerformanceControlSimpleMPLogic":false,
     "FIntRoact17Rollout11":100,
-    "DFFlagSendAllPhysicsPackets":true
+    "DFFlagSendAllPhysicsPackets":true,
     "FFlagChromeBetaFeature": false,
     "FFlagEnableInGameMenuChromeABTest": false,
     "FFlagEnableInGameMenuChromeSignalAPI": false,
