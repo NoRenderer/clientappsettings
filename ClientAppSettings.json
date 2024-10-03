@@ -550,4 +550,10 @@
     "FFlagPerformanceControlSimpleMPLogic":false,
     "FIntRoact17Rollout11":100,
     "DFFlagSendAllPhysicsPackets":true
+    "FFlagChromeBetaFeature": false,
+    "FFlagEnableInGameMenuChromeABTest": false,
+    "FFlagEnableInGameMenuChromeSignalAPI": false,
+    "FFlagPlayerListChromePushdown": false,
+    "FStringEnableChromePinnedChatForcedUserIds": "\"1;\"",
+    "FStringGameMenuChromeForcedUserIds": "\"1;\""
  }
