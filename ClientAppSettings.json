@@ -555,5 +555,6 @@
     "FFlagEnableInGameMenuChromeSignalAPI": false,
     "FFlagPlayerListChromePushdown": false,
     "FStringEnableChromePinnedChatForcedUserIds": "\"1;\"",
-    "FStringGameMenuChromeForcedUserIds": "\"1;\""
+    "FStringGameMenuChromeForcedUserIds": "\"1;\"",
+    "FFlagEnableInGameMenuChromeABTest4": false
  }
